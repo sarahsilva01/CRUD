@@ -1,0 +1,20 @@
+{
+  "livros": [
+    {
+      "id": 0,
+      "titulo": "A CULPA É DAS ESTRELAS",
+      "autor": "NEYMAR",
+      "anolançamento": "2004",
+      "genero": "+18",
+      "numeropaginas": "99"
+    },
+    {
+      "id": 0,
+      "titulo": "ESCARAVELHO DO DIABO",
+      "autor": "Gersom",
+      "anolançamento": "2000",
+      "genero": "mistério",
+      "numeropaginas": "99"
+    }
+  ]
+}
